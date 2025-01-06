@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/6b38935c-010d-47d6-b986-58086d631345
+
 # 🚀 Salary Prediction Model  
 
 ## 🔍 Project Overview  
